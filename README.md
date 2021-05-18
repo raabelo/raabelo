@@ -1,4 +1,4 @@
- #console Python - https://skulpt.org/
+ #Console Python - https://skulpt.org/
  
     def introduction():
  
